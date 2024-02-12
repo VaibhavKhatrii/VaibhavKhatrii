@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me vaibhav@nunam.com
 - 😄 Pronouns: Er.
-- ⚡ Fun fact: Lazy brown fox jumped over the wall
+- ⚡ Fun fact: The quick brown fox jumps over the lazy dog
 
 <!---
 VaibhavKhatrii/VaibhavKhatrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
